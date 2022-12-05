@@ -1,4 +1,5 @@
 #include "lib.h"
+#include <iostream>
 bool Ver(char a){
     int b;
     b=(int)a;
